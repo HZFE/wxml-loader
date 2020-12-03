@@ -1,0 +1,32 @@
+{
+  "name": "wxml-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HZFE/wxml-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HZFE/wxml-loader/issues"
+  },
+  "homepage": "https://github.com/HZFE/wxml-loader#readme",
+  "devDependencies": {
+    "@babel/cli": "7.12.8",
+    "@babel/core": "7.12.9",
+    "@babel/plugin-transform-runtime": "7.12.1",
+    "@babel/preset-env": "7.12.7"
+  },
+  "dependencies": {
+    "@babel/runtime": "7.12.5",
+    "html-minifier": "4.0.0",
+    "loader-utils": "2.0.0",
+    "sax": "1.2.4"
+  }
+}
