@@ -1,5 +1,5 @@
 {
-  "name": "wxml-loader",
+  "name": "@hzfe/wxml-loader",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,5 +28,8 @@
     "html-minifier": "4.0.0",
     "loader-utils": "2.0.0",
     "sax": "1.2.4"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
