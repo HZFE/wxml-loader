@@ -12,4 +12,4 @@
 
 ## License
 
-[MIT](./LICENSE)
+[MIT](https://github.com/HZFE/wxml-loader/blob/main/LICENSE)
