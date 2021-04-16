@@ -1,5 +1,8 @@
 # wxml-loader
 
+![npm](https://img.shields.io/npm/dt/@hzfe/wxml-loader)
+![npm](https://img.shields.io/npm/v/@hzfe/wxml-loader)
+
 ## 作用
 
 1. 收集 wxml 中的本地资源交给 webpack 处理；
